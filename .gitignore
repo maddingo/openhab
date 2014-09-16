@@ -13,3 +13,8 @@ distribution/openhabhome/*.zip
 distribution/openhabhome/etc/rrd4j/*.rrd
 *.xml_gen
 *.xml_gen
+
+# Eclipse files
+.settings/
+.classpath
+.project
